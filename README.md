@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Vítězslav Kříž👋
 
-<!--
-**sprtokiller/sprtokiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 I'm a student at FIT VUT in Brno, Czechia 
 
-Here are some ideas to get you started:
+## 💻 I enjoy working with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Vue & Angular
+- Python 🐍
+- eLearning SW
+
+## 📈 Some stats 
+
+![Github Stats](https://github-readme-stats-komatrich.vercel.app/api?username=sprtokiller)
+![Top Languages](https://github-readme-stats-komatrich.vercel.app/api/top-langs/?username=sprtokiller&hide=html&layout=compact)
