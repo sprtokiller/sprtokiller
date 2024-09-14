@@ -1,14 +1,12 @@
 # Hi there, I'm Vítězslav Kříž👋
 
-📚 I'm a student at FI MUNI in Brno, Czechia 
+📚 I'm a student at FI MUNI in Brno, Czechia
+🏫 Currently also a teacher at SPS-CL
 
 ## 💻 I enjoy working with
 
-- Vue & Angular
+- Nuxt, Vue & any WebDev stuff
 - Python 🐍
 - eLearning SW
 
-## 📈 Some stats 
-
-![Github Stats](https://github-readme-stats-komatrich.vercel.app/api?username=sprtokiller)
-![Top Languages](https://github-readme-stats-komatrich.vercel.app/api/top-langs/?username=sprtokiller&hide=html&layout=compact)
+Most of my projects ale private due to company policy and my GitHub is only for fun side projects.
