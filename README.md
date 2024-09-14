@@ -1,6 +1,7 @@
 # Hi there, I'm Vítězslav Kříž👋
 
 📚 I'm a student at FI MUNI in Brno, Czechia
+
 🏫 Currently also a teacher at SPS-CL
 
 ## 💻 I enjoy working with
